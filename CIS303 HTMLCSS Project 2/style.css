@@ -1,0 +1,168 @@
+/*Section 1 Styling*/
+
+#section1{
+	color: white;
+	background: url(./header_bg.jpg) no-repeat center top;
+	background-size: cover;
+	height:600px;
+	font-family: sans-serif;
+
+
+}
+
+#title{
+	padding-left: 85px;
+	font-weight: bold;
+	font-size: 34px
+	text-indent: 30px;
+	padding-top: 30px;
+	font-weight: 900;
+
+}
+#slogan{
+	text-align: center;
+	font-size: 34px;
+	padding-top: 40px;
+	font-weight: 100;
+
+
+}
+
+#getitnow{
+	display: block;
+	margin: auto;
+	background-color: #f9e42e;
+	border: none;
+	font-weight: bolder;
+	border-radius: 5px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 35px;
+	padding-right: 35px;
+	font-size: 23px;
+}
+
+
+/*Section 2 Styling*/
+
+#section2{
+	background-color: #f0efef;
+	height: 450px;
+	font-family: sans-serif;
+	padding-top: 45px;
+
+
+}
+
+#benefits{
+	padding-left: 150px;
+	font-size: 35px;
+	color: #033048
+
+
+
+}
+
+#subtitle{
+	font-size: 28px;
+	font-weight: 100;
+	color: #033048;
+	padding-left: 150px;
+
+
+}
+
+#bulletpoints{
+	font-size: 28px;
+	font-weight: lighter;
+	color: #033048;
+	padding-left: 250px;
+}
+/*Section 3 Styling*/
+
+#section3{
+	background: url(./testimonial_bg.jpg) no-repeat center top;
+	background-size: cover;
+	height:350px;
+	color: white;
+	font-size: 35px; 
+	font-family: sans-serif;
+	text-align: center;
+	padding-top: 40px;
+
+
+
+}
+#quote{
+	font-weight: 60;
+}
+
+#amanda{
+	font-weight: bolder;
+
+}
+
+
+
+/*Section 4 Styling*/
+
+#section4{
+	background-color: #f9e42e;
+	height: 75px;
+	text-align: center;
+	padding-top: 65px;
+	padding-bottom: 32px;
+
+
+
+}
+
+#sign{
+	background-color: #033048;
+	margin: auto;
+	border: none;
+	font-weight: bolder;
+	border-radius: 5px;
+	font-size: 25px;
+	color: white; 
+	padding-right: 50px;
+	padding-left: 50px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	
+}
+/*Section 5 Styling*/
+
+#section5{
+	background-color: #121212; 
+	height: 350px;
+	font-family: sans-serif;
+	padding-top: 10px;
+
+
+}
+
+#bottomrelaxr{
+	color: #f9e42e;
+	font-size: 50px;
+	font-weight: bolder;
+	text-align: center;
+	
+}
+
+#twitter{
+	padding-left: 660px;
+}
+
+#facebook{
+	padding-left: 20px
+}
+
+#copyright{
+	color: white;
+	font-size: 9px;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 70px;
+	font-size: 15px;
+}
